@@ -19,14 +19,14 @@ Ich mache eine Umschulung zur **Fachinformatikerin für Anwendungsentwicklung** 
 Mich interessiert Software, die **einfach zu bedienen** ist, **sicher mit Daten umgeht** und **kostenlos betrieben** werden kann.
 So kann ich sie auch ehrenamtlich anbieten.
 
-Abseits vom Code begleiten mich **Ayurveda und Yoga**. In der ATAYA-Community in Freiburg biete ich Ayurveda-Sessions an.
+Abseits vom Code begleiten mich **Ayurveda und Yoga**.
 Diese Achtsamkeit nehme ich mit in meine Arbeit: genau hinschauen, sauber aufräumen und erst dann weitermachen, wenn es wirklich funktioniert.
 
 ```yaml
 aktuell:      Umschulung Fachinformatik – Anwendungsentwicklung
 lerne gerade: Datenbanksicherheit, Testen, saubere Architektur
 mag:          klare Oberflächen, gute Dokumentation, Tests, die rot werden dürfen
-ausgleich:    Ayurveda, Yoga, Kochen (Kitchari!)
+ausgleich:    Ayurveda, Yoga, Kochen, Natur, Tiere
 ```
 
 <br />
